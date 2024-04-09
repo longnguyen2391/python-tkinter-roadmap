@@ -14,13 +14,13 @@ Roadmap này chứa những kiến thức cơ bản về ngôn ngữ lập trìn
   - Ngày 4 + Ngày 5: Cấu trúc dữ liệu List
   - Ngày 6: Cấu trúc dữ liệu Tuple và Set
   - Ngày 7: Cấu trúc dữ liệu Dictionary và Set nâng cao
-  - Ngày 8: Câu lệnh điều kiện
-  - Ngày 9: Vòng lặp 
+  - Ngày 8 (2 buổi): Câu lệnh điều kiện 
+  - Ngày 9 (2 buổi): Vòng lặp 
   
   ### 2.2 Module nâng cao 
   Module nâng cao nằm trong folder nâng cao, nó bao gồm 5 folder tương ứng với 5 chủ đề học tập kèm theo 1 folder các projects: 
-  - Ngày 13: Lập trình hướng đối tượng (OOP-Class-Object)
-  - Ngày 14: Xử lí tệp tin
+  - Ngày 13 (3 buổi): Lập trình hướng đối tượng (OOP-Class-Object)
+  - Ngày 14: Xử lí tệp tin với các định dạng khác nhau
   - Ngày 15: Cơ sở dữ liệu SQLite
   - Ngày 16: Bắt lỗi và module
-  - Ngày 17: GUI & Tkinter
+  - Ngày 17 (4 buổi): GUI & Tkinter
