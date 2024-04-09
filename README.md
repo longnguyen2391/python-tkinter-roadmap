@@ -2,7 +2,7 @@
 
 ## 1. Tổng quan về roadmap 
 
-Roadmap này chứa những kiến thức cơ bản về ngôn ngữ lập trình và Python như nhập xuất, điều khiển luồng, xử lí xâu, cấu trúc dữ liệu, ... Ngoài ra, nó còn chứa nhứng kiến thức nâng cao như xử lí tệp, lập trình hướng đối tượng, bắt lỗi, làm việc với cơ sở dữ liệu,... Cuối cùng, khi nắm vững các kiến thức cơ bản, các bạn sẽ được làm quen với thư viện tkinter - thư viện GUI để thiết kế phần mềm. 
+Roadmap này chứa những kiến thức cơ bản về ngôn ngữ lập trình và Python như nhập xuất, điều khiển luồng, xử lí xâu, cấu trúc dữ liệu, ... Ngoài ra, nó còn chứa nhứng kiến thức nâng cao như xử lí tệp, lập trình hướng đối tượng, bắt lỗi, làm việc với cơ sở dữ liệu,... Cuối cùng, khi nắm vững các kiến thức cơ bản, các bạn sẽ được làm quen với thư viện tkinter - thư viện GUI để thiết kế phần mềm.  
 
 ## 2. Phân loại module và chủ đề bài học
 
@@ -27,3 +27,4 @@ Roadmap này chứa những kiến thức cơ bản về ngôn ngữ lập trìn
   - Ngày 15: Cơ sở dữ liệu SQLite
   - Ngày 16: Bắt lỗi và module
   - Ngày 17 (4 buổi): GUI & Tkinter
+
