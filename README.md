@@ -7,7 +7,7 @@ Roadmap này chứa những kiến thức cơ bản về ngôn ngữ lập trìn
 ## 2. Phân loại module và chủ đề bài học
 
   ### 2.1 Module cơ bản 
-  Module cơ bản nằm trong folder cơ bản, nó bao gồm 9 folder tương ứng với 9 chủ đề học tập: 
+  Module cơ bản nằm trong folder cơ bản, nó bao gồm 12 folder tương ứng với 12 chủ đề học tập: 
   - Ngày 1: Cài đặt môi trường phát triển Python và viết chương trình đầu tiên bằng hàm print()
   - Ngày 2: Biến, kiểu dữ liệu và hàm input()
   - Ngày 3: Toán tử toán học, toán tử so sánh, toán tử logic,... Độ ưu tiên toán tử
@@ -15,7 +15,10 @@ Roadmap này chứa những kiến thức cơ bản về ngôn ngữ lập trìn
   - Ngày 6: Cấu trúc dữ liệu Tuple và Set
   - Ngày 7: Cấu trúc dữ liệu Dictionary và Set nâng cao
   - Ngày 8 (2 buổi): Câu lệnh điều kiện 
-  - Ngày 9 (2 buổi): Vòng lặp 
+  - Ngày 9 (2 buổi): Vòng lặp
+  - Ngày 10: Kỹ thuật Comprehensions trên cấu trúc dữ liệu và hàm zip(), enumerate()
+  - Ngày 11 (2 buổi): Hàm
+  - Ngày 12: Xây dựng phần mềm lưu trữ phim
   
   ### 2.2 Module nâng cao 
   Module nâng cao nằm trong folder nâng cao, nó bao gồm 5 folder tương ứng với 5 chủ đề học tập kèm theo 1 folder các projects: 
